@@ -1,0 +1,16 @@
+C:\Users\prog\source\repos\4\4\bin\Debug\4.exe.config
+C:\Users\prog\source\repos\4\4\bin\Debug\4.exe
+C:\Users\prog\source\repos\4\4\bin\Debug\4.pdb
+C:\Users\prog\source\repos\4\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\Users\prog\source\repos\4\4\obj\Debug\MainWindow.g.cs
+C:\Users\prog\source\repos\4\4\obj\Debug\App.g.cs
+C:\Users\prog\source\repos\4\4\obj\Debug\4_MarkupCompile.cache
+C:\Users\prog\source\repos\4\4\obj\Debug\4_MarkupCompile.lref
+C:\Users\prog\source\repos\4\4\obj\Debug\App.baml
+C:\Users\prog\source\repos\4\4\obj\Debug\MainWindow.baml
+C:\Users\prog\source\repos\4\4\obj\Debug\4.g.resources
+C:\Users\prog\source\repos\4\4\obj\Debug\_4.Properties.Resources.resources
+C:\Users\prog\source\repos\4\4\obj\Debug\4.csproj.GenerateResource.cache
+C:\Users\prog\source\repos\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\prog\source\repos\4\4\obj\Debug\4.exe
+C:\Users\prog\source\repos\4\4\obj\Debug\4.pdb
